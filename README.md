@@ -14,6 +14,11 @@ Configuration
 =============
 
 Copy config.json.sample to config.json and edit accordingly.
+Install dependencies (needed only if you run the tests)
+    
+    composer install
+Don't have composer? Get it [here](https://getcomposer.org/download/).
+    
 
 Run
 ===
