@@ -1,0 +1,16 @@
+{
+    "from_database": {
+        "csv_file_path": "DatabaseCopierTest.php.csv",
+        "maxLineLength": "0",
+        "delimiter": ",",
+        "enclosure": "\"",
+        "escape": "\""
+    },
+    "to_database": {
+        "server": "localhost",
+        "database": "test",
+        "table": "test",
+        "username": "root",
+        "password": ""
+    }
+}

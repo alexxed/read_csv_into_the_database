@@ -1,0 +1,16 @@
+{
+    "name": "alexxed/read_csv_into_the_database",
+    "description": "Reads a CSV into a given MySQL table",
+    "require": {
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.4"
+    },
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Alexandru Szasz",
+            "email": "alexxed@gmail.com"
+        }
+    ]
+}
